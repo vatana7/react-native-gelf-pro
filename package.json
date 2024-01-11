@@ -1,9 +1,9 @@
 {
-  "name": "gelf-pro",
+  "name": "react-native-gelf-pro",
   "version": "1.3.10",
   "main": "./lib/gelf-pro.js",
   "typings": "./typings/index.d.ts",
-  "author": "Kanstantsin Kamkou <kkamkou@gmail.com>",
+  "author": "Kanstantsin Kamkou <kkamkou@gmail.com>, Sambath Vatana <vatanamain@gmail.com>",
   "description": "The Graylog Extended Log Format for the Node.js",
   "keywords": [
     "graylog",
